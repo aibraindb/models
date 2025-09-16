@@ -1,0 +1,8 @@
+.ml-venv/
+__pycache__/
+*.cache/
+*.tmp
+.DS_Store
+hf-snap-*/
+.parts.list
+.parts.batch.*

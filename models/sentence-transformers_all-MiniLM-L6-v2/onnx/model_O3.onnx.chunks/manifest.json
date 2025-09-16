@@ -1,0 +1,27 @@
+{
+  "original_filename": "model_O3.onnx",
+  "original_size": 90326497,
+  "original_sha256": "a44f671e364dddbac31f203f07b91be6b0a35e51936e5ebfab65b6d9538b83ff",
+  "chunk_size": 52428800,
+  "num_chunks": 2,
+  "chunks": [
+    {
+      "name": "model_O3.onnx.part0000",
+      "size": 52428816,
+      "nonce_b64": "/VPO9WByL7M2O2sC",
+      "sha256": "5bbbe49a9a729cdf13bcb37c48070286038a227c3d0dd88babf2b4a85c275f51"
+    },
+    {
+      "name": "model_O3.onnx.part0001",
+      "size": 37897713,
+      "nonce_b64": "ycjLlwsJzRmIM0M6",
+      "sha256": "706d701d644c16efbeb1686a6aa86cb683547408ae3ab565c22d9a0318cb5467"
+    }
+  ],
+  "encrypted": true,
+  "kdf": {
+    "algo": "PBKDF2-HMAC-SHA256",
+    "rounds": 200000
+  },
+  "salt_b64": "u1R0cuH3uECbLgnP9wMmoQ=="
+}

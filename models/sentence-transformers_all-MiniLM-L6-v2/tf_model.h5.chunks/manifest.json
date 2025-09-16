@@ -1,0 +1,27 @@
+{
+  "original_filename": "tf_model.h5",
+  "original_size": 91005696,
+  "original_sha256": "24c06a7429b843d46e40c6b167122053921bf94dce2e5550ea5c07fabc597646",
+  "chunk_size": 52428800,
+  "num_chunks": 2,
+  "chunks": [
+    {
+      "name": "tf_model.h5.part0000",
+      "size": 52428816,
+      "nonce_b64": "0rMW68NbJGMnlP5U",
+      "sha256": "edeff4fdefe776048c974a520b553bd4285ece3f51f2f21f7dd19cfec88c4519"
+    },
+    {
+      "name": "tf_model.h5.part0001",
+      "size": 38576912,
+      "nonce_b64": "6aM5I4NX6BuakUae",
+      "sha256": "f0faedf9758c325b5bd722bd022cf34ffb2abdb62366e3aa99106d43e58f8c38"
+    }
+  ],
+  "encrypted": true,
+  "kdf": {
+    "algo": "PBKDF2-HMAC-SHA256",
+    "rounds": 200000
+  },
+  "salt_b64": "aFDuQ8HEzzGsVhjG/xhstw=="
+}

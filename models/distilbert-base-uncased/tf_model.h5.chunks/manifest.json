@@ -1,0 +1,57 @@
+{
+  "original_filename": "tf_model.h5",
+  "original_size": 363423424,
+  "original_sha256": "e75cd1b76b546a498fe49ae3f0ca6f2ca4f2216c34010bea7232e8a0b95e93e8",
+  "chunk_size": 52428800,
+  "num_chunks": 7,
+  "chunks": [
+    {
+      "name": "tf_model.h5.part0000",
+      "size": 52428816,
+      "nonce_b64": "0hiRRN5kJ5muVSl3",
+      "sha256": "1b3cbe7696b95c39d0747b1c93fdac417bc51d063384cf3b1da68dbad03a79bd"
+    },
+    {
+      "name": "tf_model.h5.part0001",
+      "size": 52428816,
+      "nonce_b64": "UHhcHf/7UZyepmNv",
+      "sha256": "7a4ca9bdf365dd00e05919e37b0bb183424e1272f09c478699984391aacc5ed7"
+    },
+    {
+      "name": "tf_model.h5.part0002",
+      "size": 52428816,
+      "nonce_b64": "RQEQiZoDycNzphVZ",
+      "sha256": "9ab2fae76df9f03a7d9622fad2e70366cbb73beb026c30fb3ad4b35411c28833"
+    },
+    {
+      "name": "tf_model.h5.part0003",
+      "size": 52428816,
+      "nonce_b64": "V6dqfmAt6GnlSPC/",
+      "sha256": "7395ddf5e7cfa83d8c421c5cc16ce7b82e89fbd9581bc9a07d82b9cffd135f67"
+    },
+    {
+      "name": "tf_model.h5.part0004",
+      "size": 52428816,
+      "nonce_b64": "e5n0te9e5+aDF37Z",
+      "sha256": "3bdf578bab163f0cb4f3e31c135a3e59749bf3ef5720cfe846949a5d4f35a540"
+    },
+    {
+      "name": "tf_model.h5.part0005",
+      "size": 52428816,
+      "nonce_b64": "GP4qMji+nibRi6FG",
+      "sha256": "9a4fb5df8ad0d7e7a6615ba86f9d775fff5862d143eacfe0ac42b17b39c7dfb2"
+    },
+    {
+      "name": "tf_model.h5.part0006",
+      "size": 48850640,
+      "nonce_b64": "UMlH+iXf89MNv/0z",
+      "sha256": "9345db71f40e7af6c494f381f4333ac956997d86496c9711500c6e5dd6272d93"
+    }
+  ],
+  "encrypted": true,
+  "kdf": {
+    "algo": "PBKDF2-HMAC-SHA256",
+    "rounds": 200000
+  },
+  "salt_b64": "UxD+PNMhZWX1jqfnLPkSmw=="
+}

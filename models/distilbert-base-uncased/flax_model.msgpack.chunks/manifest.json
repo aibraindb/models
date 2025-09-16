@@ -1,0 +1,51 @@
+{
+  "original_filename": "flax_model.msgpack",
+  "original_size": 267945836,
+  "original_sha256": "101fa75462994e55b265fd62b0f44b9bb9f4d3fcb0c9d8986d2542850d0f0688",
+  "chunk_size": 52428800,
+  "num_chunks": 6,
+  "chunks": [
+    {
+      "name": "flax_model.msgpack.part0000",
+      "size": 52428816,
+      "nonce_b64": "P7LAaqvXNbF6vISk",
+      "sha256": "bb261197023dc5711b31bfbf47f83cbdb86fb783bb9dbd881fe7ef8c84818c17"
+    },
+    {
+      "name": "flax_model.msgpack.part0001",
+      "size": 52428816,
+      "nonce_b64": "egZm6/8RDw6a95RG",
+      "sha256": "16b62b7cc2c88712445209c21554f4da087a5ce8ce7eca5b71de106b0e53c18b"
+    },
+    {
+      "name": "flax_model.msgpack.part0002",
+      "size": 52428816,
+      "nonce_b64": "fNt1B3sWgbRAwdNN",
+      "sha256": "90bd2a7600524540b55b291a22bb1ae7c23ae9f4aec89f03e03544e7ab5a8bcd"
+    },
+    {
+      "name": "flax_model.msgpack.part0003",
+      "size": 52428816,
+      "nonce_b64": "exh0pmzmbgGZp0Ay",
+      "sha256": "4cee9f4045eb9a59037f635f2e973e50c46f37980a14cd40df1796bb3e8c5d76"
+    },
+    {
+      "name": "flax_model.msgpack.part0004",
+      "size": 52428816,
+      "nonce_b64": "Gd1sNNXQdhdeCbrb",
+      "sha256": "ceecf3cb215fc2a6671febd48d151674ab623360d0119137082ec1711879f315"
+    },
+    {
+      "name": "flax_model.msgpack.part0005",
+      "size": 5801852,
+      "nonce_b64": "thqdPvIrT/WhkK2f",
+      "sha256": "02732c816b4994868d241daa63eaec18d313127d8583fc1bb446f252956260ba"
+    }
+  ],
+  "encrypted": true,
+  "kdf": {
+    "algo": "PBKDF2-HMAC-SHA256",
+    "rounds": 200000
+  },
+  "salt_b64": "AzzyktGOHYocvx/0IfTNVg=="
+}

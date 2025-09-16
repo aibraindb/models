@@ -1,0 +1,21 @@
+{
+  "original_filename": "model_O4.onnx",
+  "original_size": 45212349,
+  "original_sha256": "1667d7f3ba669048b13a96ee3a44456d5e42c8f44588ae8b603430e16160c485",
+  "chunk_size": 52428800,
+  "num_chunks": 1,
+  "chunks": [
+    {
+      "name": "model_O4.onnx.part0000",
+      "size": 45212365,
+      "nonce_b64": "WO80mKVRYChvOPNv",
+      "sha256": "506720056eba0a52bcd3346fcb608a298870640ffc931abb2e9578b432e4cec3"
+    }
+  ],
+  "encrypted": true,
+  "kdf": {
+    "algo": "PBKDF2-HMAC-SHA256",
+    "rounds": 200000
+  },
+  "salt_b64": "bdXSmrc9ScWw0b5AlcrjQw=="
+}

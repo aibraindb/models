@@ -1,0 +1,51 @@
+{
+  "original_filename": "pytorch_model.bin",
+  "original_size": 267967963,
+  "original_sha256": "e60d71610916da4787c5513c81bc026d415708528295502fb3e1a6fe1485ea7c",
+  "chunk_size": 52428800,
+  "num_chunks": 6,
+  "chunks": [
+    {
+      "name": "pytorch_model.bin.part0000",
+      "size": 52428816,
+      "nonce_b64": "hGqqfEvOW1xGLMDO",
+      "sha256": "dace638de6e2fbf756d119d672d763e0cbf04f728e1e4f3f70360a61184d7997"
+    },
+    {
+      "name": "pytorch_model.bin.part0001",
+      "size": 52428816,
+      "nonce_b64": "VaAqRiPNFbmI0cFn",
+      "sha256": "57d4a68057e64543d6417f8475e1b7b12f383f48f4e54dc2e09b5c02a8bd7986"
+    },
+    {
+      "name": "pytorch_model.bin.part0002",
+      "size": 52428816,
+      "nonce_b64": "8RJvVhvDlGG/Dbpf",
+      "sha256": "97ef2c2260c98e01ae08c6872d6779d95e66c2d7b86e68902a28ace74b6b2ce9"
+    },
+    {
+      "name": "pytorch_model.bin.part0003",
+      "size": 52428816,
+      "nonce_b64": "UNioHpzKAWDeOcGx",
+      "sha256": "f7aba115d12300b0d804ef611bb17325798c57805a7dd7403663558fb2ac6f9a"
+    },
+    {
+      "name": "pytorch_model.bin.part0004",
+      "size": 52428816,
+      "nonce_b64": "IJGXQvMoYda6vX81",
+      "sha256": "0a38c601435e08c86df451f792d8700139ba9d2918c5fd76a6d8ef359e4e24aa"
+    },
+    {
+      "name": "pytorch_model.bin.part0005",
+      "size": 5823979,
+      "nonce_b64": "/R52J/zwJ9L23w6L",
+      "sha256": "b560fa107add0abb8d72439bff3b8521d6431cf4b3ab4ee1869411069ff87e86"
+    }
+  ],
+  "encrypted": true,
+  "kdf": {
+    "algo": "PBKDF2-HMAC-SHA256",
+    "rounds": 200000
+  },
+  "salt_b64": "yA5tVwzGlKwWSlS4/bBVKg=="
+}

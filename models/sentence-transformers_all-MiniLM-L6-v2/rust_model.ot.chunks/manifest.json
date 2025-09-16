@@ -1,0 +1,27 @@
+{
+  "original_filename": "rust_model.ot",
+  "original_size": 90887379,
+  "original_sha256": "2d98d96d278348988f2744e6445b8bc16d921c3f6e17c667362f3cb353007aea",
+  "chunk_size": 52428800,
+  "num_chunks": 2,
+  "chunks": [
+    {
+      "name": "rust_model.ot.part0000",
+      "size": 52428816,
+      "nonce_b64": "7AM9DRIAxRgASKF7",
+      "sha256": "08ba1a6d7f4ecf2d124e1fa894b983736dfb816a6dbba8726b045fb4d2b0a172"
+    },
+    {
+      "name": "rust_model.ot.part0001",
+      "size": 38458595,
+      "nonce_b64": "fnodcz5ca3xWlN+k",
+      "sha256": "26bf97f5fb425786541b87fcccbd980d99f383ef7ebcb0edf944440dd004c7eb"
+    }
+  ],
+  "encrypted": true,
+  "kdf": {
+    "algo": "PBKDF2-HMAC-SHA256",
+    "rounds": 200000
+  },
+  "salt_b64": "wjxb/UHZ58QoH9PDVTUd0Q=="
+}
