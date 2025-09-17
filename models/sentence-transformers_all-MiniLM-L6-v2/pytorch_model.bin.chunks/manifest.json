@@ -1,0 +1,27 @@
+{
+  "original_filename": "pytorch_model.bin",
+  "original_size": 90888945,
+  "original_sha256": "c3a85f238711653950f6a79ece63eb0ea93d76f6a6284be04019c53733baf256",
+  "chunk_size": 52428800,
+  "num_chunks": 2,
+  "chunks": [
+    {
+      "name": "pytorch_model.bin.part0000",
+      "size": 52428816,
+      "nonce_b64": "JgoELh/E8om1yDw5",
+      "sha256": "5675799b525b7bed6f08a7b310ada4077ee50c0a5b89097c519109189b5c3411"
+    },
+    {
+      "name": "pytorch_model.bin.part0001",
+      "size": 38460161,
+      "nonce_b64": "Kl3oVwpTXn80FWS8",
+      "sha256": "e95e93feb91e3ae208f6dcb00c2dbfeae10ee6a9ee1c29a9a91905a70aebb1be"
+    }
+  ],
+  "encrypted": true,
+  "kdf": {
+    "algo": "PBKDF2-HMAC-SHA256",
+    "rounds": 200000
+  },
+  "salt_b64": "Rp2uQNfoFJelYOTS8tkLYg=="
+}
