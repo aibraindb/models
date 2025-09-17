@@ -1,0 +1,27 @@
+{
+  "original_filename": "model.safetensors",
+  "original_size": 90868376,
+  "original_sha256": "53aa51172d142c89d9012cce15ae4d6cc0ca6895895114379cacb4fab128d9db",
+  "chunk_size": 52428800,
+  "num_chunks": 2,
+  "chunks": [
+    {
+      "name": "model.safetensors.part0000",
+      "size": 52428816,
+      "nonce_b64": "RLvCHXgfxZ7l4LaL",
+      "sha256": "e0fa2878ca0d5fba004c6ee8cb882ac71ee74899df83fa8ceccd993796e7cae6"
+    },
+    {
+      "name": "model.safetensors.part0001",
+      "size": 38439592,
+      "nonce_b64": "VhbhFO4bGLQcjfb3",
+      "sha256": "f116b5f050417abe5011476b2a8bb5a6136fc8cf48f16235232b58369096a965"
+    }
+  ],
+  "encrypted": true,
+  "kdf": {
+    "algo": "PBKDF2-HMAC-SHA256",
+    "rounds": 200000
+  },
+  "salt_b64": "RiHowN5LukTg8idTyVsTzQ=="
+}
