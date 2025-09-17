@@ -8,14 +8,14 @@
     {
       "name": "model.safetensors.part0000",
       "size": 52428816,
-      "nonce_b64": "RLvCHXgfxZ7l4LaL",
-      "sha256": "e0fa2878ca0d5fba004c6ee8cb882ac71ee74899df83fa8ceccd993796e7cae6"
+      "nonce_b64": "bhC+cutjDtHDiCji",
+      "sha256": "c45d19e57e6e659ea1e862e11919364c2ee7a674e7e995b81538c5a97fed592a"
     },
     {
       "name": "model.safetensors.part0001",
       "size": 38439592,
-      "nonce_b64": "VhbhFO4bGLQcjfb3",
-      "sha256": "f116b5f050417abe5011476b2a8bb5a6136fc8cf48f16235232b58369096a965"
+      "nonce_b64": "58uu4uvO3fkp0OxX",
+      "sha256": "17fc270133cc9cc8bbf5f0f97400aa0d1e1c4c3412048bc974d863dc487b459a"
     }
   ],
   "encrypted": true,
@@ -23,5 +23,5 @@
     "algo": "PBKDF2-HMAC-SHA256",
     "rounds": 200000
   },
-  "salt_b64": "RiHowN5LukTg8idTyVsTzQ=="
+  "salt_b64": "2qxCgGSTg0Z9/DaUow5m2Q=="
 }
