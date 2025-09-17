@@ -1,0 +1,75 @@
+{
+  "original_filename": "model.onnx",
+  "original_size": 501597822,
+  "original_sha256": "e8d1f8e133bc7e727ec873b400fa31b226a488bccf392c1fc97ec5e0bdbba96a",
+  "chunk_size": 52428800,
+  "num_chunks": 10,
+  "chunks": [
+    {
+      "name": "model.onnx.part0000",
+      "size": 52428816,
+      "nonce_b64": "tf8hzpfk5DswsDqO",
+      "sha256": "0b0666c5c2995465a45549da1d20e137ecda9e4d6b5c248327eb5d8b3d61cf73"
+    },
+    {
+      "name": "model.onnx.part0001",
+      "size": 52428816,
+      "nonce_b64": "z+4QG93SB/eEwkUM",
+      "sha256": "c081b502fdcb33c8078b9923c4e16f3c3618ae7ccecfbf84d0d55788623454cf"
+    },
+    {
+      "name": "model.onnx.part0002",
+      "size": 52428816,
+      "nonce_b64": "GB2Et9XIBWzEq/jo",
+      "sha256": "b50b42fc62799b114c79728a5045fee60037f922e3b74e69d7b1f89f6c2670b3"
+    },
+    {
+      "name": "model.onnx.part0003",
+      "size": 52428816,
+      "nonce_b64": "InsIt7Q5HAmx5h+o",
+      "sha256": "f5bd03bc3b42312246960c949dbc69febd2d807ede5701524a78f54a44ad81ea"
+    },
+    {
+      "name": "model.onnx.part0004",
+      "size": 52428816,
+      "nonce_b64": "rT+kpvfp1A/Q0w/I",
+      "sha256": "33d815982bdb86295990544e921f8d0577997baf47e3aedf6516de128f5219d8"
+    },
+    {
+      "name": "model.onnx.part0005",
+      "size": 52428816,
+      "nonce_b64": "1buwQW4v9Jpymv1d",
+      "sha256": "5a3c84b7d08888be8d06ddee9e1c3307349bbf423da908cd1a40de550b1084bc"
+    },
+    {
+      "name": "model.onnx.part0006",
+      "size": 52428816,
+      "nonce_b64": "Rl9WnG0jgzT6tVnU",
+      "sha256": "7b89ffab227738128c291a15cc018622e959ecfb56bfa6a8cf7d916f5addb124"
+    },
+    {
+      "name": "model.onnx.part0007",
+      "size": 52428816,
+      "nonce_b64": "o/HsUfVEzlIF4cYp",
+      "sha256": "7490996ef8312bb55689127f55b3873124ac67f08bbd928027864c3664023fa3"
+    },
+    {
+      "name": "model.onnx.part0008",
+      "size": 52428816,
+      "nonce_b64": "SiJ0eVljs9uwsaZ8",
+      "sha256": "e00b0c085a4b7e6d6bc4edcc1921c88d693a2bdf638eb60246ef2aff0ddef776"
+    },
+    {
+      "name": "model.onnx.part0009",
+      "size": 29738638,
+      "nonce_b64": "XFhs4kcCTEheRFjY",
+      "sha256": "4140d14a7c55c92a7eec6df6b0e316ef28b1ce4e061f2719a416625a0e389583"
+    }
+  ],
+  "encrypted": true,
+  "kdf": {
+    "algo": "PBKDF2-HMAC-SHA256",
+    "rounds": 200000
+  },
+  "salt_b64": "wmdPFaI/psLVoWwF7x65Sg=="
+}
